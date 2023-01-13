@@ -1,0 +1,56 @@
+.nethead{
+
+}
+.netbar{
+	
+	height: 65px;
+	background-color: black;
+}
+.logo{
+	height: 65px;
+}
+
+.breadcrumb{
+	color: #e50914;
+}
+.pricetable{
+
+margin-top: 30px;
+}
+.plans-price{
+	margin-top: 10px;
+
+}
+.sharing{
+	color: #e50914;
+}
+
+.table a{
+	color: #e50914;
+}
+
+li{
+	color: black;
+}
+.col-sm-3{
+	border: 2px solid black;
+	height: 250px;
+}
+.pricing{
+	
+	margin-top: 40px;
+}
+.netflix-conditions a{
+	color: #e50914;
+}
+.footer-start{
+	
+	height: 70px;
+	margin-top: 70px;
+
+}
+.footer-end{
+	background-color: black;
+	height: 150px;
+
+}
